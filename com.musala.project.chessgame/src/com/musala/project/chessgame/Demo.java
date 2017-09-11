@@ -20,6 +20,9 @@ public class Demo {
 		//move it
 		game.clickPosition(2, 5);
 		
+		//click empty field
+		game.clickPosition(5, 2);
+		
 
 	}
 }
